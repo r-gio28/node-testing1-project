@@ -10,7 +10,7 @@ Your assignment page on Canvas should contain instructions for submitting this p
 
 - [ x ] For Exercises 1-7 inside `index.js`:
   - [ x ] Write the tests in `index.test.js`.
-  - [ ] Implement the function or the class in `index.js`.
+  - [ x ] Implement the function or the class in `index.js`.
 
 #### Notes
 
